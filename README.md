@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 ## 👋 Nowshad Mahbub  <br><br>🚀 App Developer in Progress | Future AI Engineer  <br>🧠 Focused on building scalable systems & intelligent applications  <br><br>I am on a structured journey:<br>1️⃣ Master App Development  <br>2️⃣ Transition into Data Science & AI  <br>3️⃣ Build real-world impact through technology  <br><br>Currently sharpening:<br>- Problem-solving & logical thinking<br>- Programming fundamentals<br>- Systematic learning habits<br>- Project-based development<br><br>⚡ I don’t just learn — I build.<br>⚡ I don’t just study — I execute.<br><br>Open to collaboration, growth, and challenging opportunities.
 
 
